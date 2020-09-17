@@ -1,6 +1,6 @@
 # Sending emails with python smtp library.
 
-![A test image](email.png)
+![A test image](./email.PNG)
 
 ### To follow along:
 
